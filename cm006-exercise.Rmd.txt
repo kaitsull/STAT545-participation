@@ -1,8 +1,6 @@
 ---
 title: 'cm006: `dplyr` Exercise'
-output: 
-  html_document:
-    keep_md: TRUE
+output: html_notebook
 editor_options: 
   chunk_output_type: inline
 ---
@@ -10,12 +8,6 @@ editor_options:
 
 ```{r allow errors, echo = FALSE}
 knitr::opts_chunk$set(error = TRUE)
-
-#NOTES:
-#today = dplyr -> subset and rearrange data
-#piping %>% for function chains
-#in the tidyverse package
-
 ```
 
 **Optional, but recommended startup**:
