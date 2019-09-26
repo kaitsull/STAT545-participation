@@ -1,5 +1,5 @@
 ---
-  title: "cm005 Worksheet: Exploring Geometric Objects"
+title: "cm005 Worksheet: Exploring Geometric Objects"
 output: 
   html_document:
   keep_md: true
