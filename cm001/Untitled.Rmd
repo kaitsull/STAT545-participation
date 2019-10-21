@@ -1,0 +1,8 @@
+---
+title: "cm001"
+output: html_document
+---
+
+## **Nothing to see here!**
+
+*We just set up our github accounts this class.*
